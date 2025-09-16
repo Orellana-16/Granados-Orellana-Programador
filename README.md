@@ -21,15 +21,18 @@ Hi, I'm Orellana Piero!
 
 <hr>
 
-<pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+<pre style="font-family: monospace; background:#f4f4f4; padding:15px; border-radius:10px;">
+  <img src="TU_LOGO_O_IMAGEN.png" alt="Logo/Foto" width="120" style="border-radius:50%; display:block; margin:auto;">
+  
+📂 Soy un Desarrollador Full Stack y entusiasta del Aprendizaje Automático  
+📂 Estudio en el IESTP Andrés Avelino Cáceres Dorregaray - Perú  
+📂 Tengo un gran interés en Ciencia de Datos e Inteligencia Artificial  
+📂 Actualmente trabajando en proyectos de Machine Learning y Desarrollo Web  
+📂 Aprendiendo sobre Visión por Computadora y aplicaciones inteligentes  
+📂 Lenguajes principales: Python, JavaScript, PHP  
+📂 Interesado en el desarrollo de Aplicaciones Full Stack con Machine Learning  
+📂 Actualmente abierto a: <b>Prácticas</b> o una nueva <b>oportunidad laboral</b>, este es 
+<a href="TU_LINK_A_RESUME" target="_blank">MI CV.</a>  
 </pre>
 <hr>
 
